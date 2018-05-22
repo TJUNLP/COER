@@ -6,5 +6,12 @@ It is created automatically by unsupervised open extractor from diverse and hete
 The extracted triple set are stored in a series of XML files. Relation items are composed of original text, entity pairs, relationship phrases and shortest dependency paths. Each “Entity_pair” unit includes two argument entries, and every “relation_phrase” unit contains several mention entries. Meanwhile, entries own rich attributes. The organization of the content can be represented by a tree structure.
 
 
+
+Citation:
+Jia S, Li M, Xiang Y. Chinese Open Relation Extraction and Knowledge Base Establishment[J]. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), 2018, 17(3): 15.
+
+
+
 Please email us to get more information.
 Contact: shengbinjia@tongji.edu.cn
+
