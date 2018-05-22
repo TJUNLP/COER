@@ -7,7 +7,7 @@ The extracted triple set are stored in a series of XML files. Relation items are
 
 
 
-Citation:
+# Citation:
 Jia S, Li M, Xiang Y. Chinese Open Relation Extraction and Knowledge Base Establishment[J]. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), 2018, 17(3): 15.
 
 
